@@ -1,0 +1,32 @@
+﻿  源.cpp
+e:\drawing system\drawing system\line.h(65): warning C4838: 从“float”转换到“int”需要收缩转换
+e:\drawing system\drawing system\rectangle.h(52): warning C4018: “<”: 有符号/无符号不匹配
+e:\drawing system\drawing system\rectangle.h(72): warning C4018: “<”: 有符号/无符号不匹配
+e:\drawing system\drawing system\rectangle.h(111): warning C4018: “<”: 有符号/无符号不匹配
+e:\drawing system\drawing system\rectangle.h(241): warning C4018: “<”: 有符号/无符号不匹配
+e:\drawing system\drawing system\triangle.h(54): warning C4018: “<”: 有符号/无符号不匹配
+e:\drawing system\drawing system\triangle.h(90): warning C4018: “<”: 有符号/无符号不匹配
+e:\drawing system\drawing system\triangle.h(214): warning C4018: “<”: 有符号/无符号不匹配
+e:\drawing system\drawing system\quadrilatera.h(58): warning C4018: “<”: 有符号/无符号不匹配
+e:\drawing system\drawing system\quadrilatera.h(94): warning C4018: “<”: 有符号/无符号不匹配
+e:\drawing system\drawing system\quadrilatera.h(218): warning C4018: “<”: 有符号/无符号不匹配
+e:\drawing system\drawing system\hexagonh.h(68): warning C4018: “<”: 有符号/无符号不匹配
+e:\drawing system\drawing system\hexagonh.h(104): warning C4018: “<”: 有符号/无符号不匹配
+e:\drawing system\drawing system\hexagonh.h(229): warning C4018: “<”: 有符号/无符号不匹配
+e:\drawing system\drawing system\pentagon.h(62): warning C4018: “<”: 有符号/无符号不匹配
+e:\drawing system\drawing system\pentagon.h(98): warning C4018: “<”: 有符号/无符号不匹配
+e:\drawing system\drawing system\pentagon.h(223): warning C4018: “<”: 有符号/无符号不匹配
+e:\drawing system\drawing system\file.h(52): warning C4018: “<”: 有符号/无符号不匹配
+e:\drawing system\drawing system\file.h(58): warning C4018: “<”: 有符号/无符号不匹配
+e:\drawing system\drawing system\file.h(218): warning C4018: “<”: 有符号/无符号不匹配
+e:\drawing system\drawing system\mouseclick.h(143): warning C4018: “<”: 有符号/无符号不匹配
+e:\drawing system\drawing system\mouseclick.h(160): warning C4018: “<”: 有符号/无符号不匹配
+e:\drawing system\drawing system\mouseclick.h(179): warning C4018: “<”: 有符号/无符号不匹配
+e:\drawing system\drawing system\mouseclick.h(209): warning C4018: “<”: 有符号/无符号不匹配
+e:\drawing system\drawing system\mouseclick.h(223): warning C4018: “<”: 有符号/无符号不匹配
+e:\drawing system\drawing system\mouseclick.h(244): warning C4018: “<”: 有符号/无符号不匹配
+e:\drawing system\drawing system\mouseclick.h(258): warning C4018: “<”: 有符号/无符号不匹配
+e:\drawing system\drawing system\mouseclick.h(272): warning C4018: “<”: 有符号/无符号不匹配
+e:\drawing system\drawing system\mouseclick.h(280): warning C4018: “<”: 有符号/无符号不匹配
+e:\drawing system\drawing system\mouseclick.h(306): warning C4018: “<”: 有符号/无符号不匹配
+  Drawing System.vcxproj -> E:\Drawing System\Debug\Drawing System.exe
